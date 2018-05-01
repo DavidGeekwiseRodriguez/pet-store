@@ -29,3 +29,23 @@
   background-color: #edf1f4;
   padding: 10px;
 }
+
+.container-fluid {
+  background-color: #231F20;
+  height: 200px;
+}
+
+.container-fluid .row {
+  margin-top: 50px;
+}
+
+.container-fluid .row .col-md-4 .logo {
+  margin-left: 250px;
+  margin-top: -10px;
+  max-height: 100px;
+}
+
+.container-fluid .row .col-md-4 a {
+  color: #BFC0C1;
+  font-size: 20px;
+}
